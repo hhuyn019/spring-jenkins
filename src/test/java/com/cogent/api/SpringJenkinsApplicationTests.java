@@ -12,7 +12,7 @@ class SpringJenkinsApplicationTests {
 	
 	@Test
 	void contextLoads() {
-		log.info("Test case execution");
+		log.debug("Test case execution");
 	}
 
 }
